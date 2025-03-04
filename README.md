@@ -9,9 +9,8 @@
 🖥️ First PC: Compaq rocking 133MHz Pentium, 8MB RAM, Windows 95.   
 🌩️ Curious about DevEx, cloud-distributed infrastructure, Kubernetes, and cybersecurity.  
 🎓 Graduated from the University of Kent with first-class honours, having picked up Java.  
-📰 Creator of [Friday Tech Focus Newsletter](https://martins.irbe.dev/newsletters).  
 📌 Pinning the Map ▸ 🇱🇻🇬🇧🇬🇷🇪🇸🇮🇹🇺🇸🇵🇹  
-📸 Photography enthusiast ▸ Canon EOS M6  
+📸 Photography enthusiast ▸ Fujifilm X-M5, Canon EOS M6  
 📫 I'm easy to reach; drop me a line.
 
 <details>
